@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayari Hanine</h1>
+<h1 align="center">Hi I'm Ayari Hanine</h1>
 <h3 align="center">A passionate software pre-engineering student</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayarih" alt="ayarih" /></a> </p>
 
 - 🛠️ Building: **A new social platform with a clever freemium twist**
 
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **ayarihanine@proton.me**
 
-- ✨ Fun fact: **I’m a huge astronomy fan and follow new space discoveries like a hobby.**
+- ✨ Fun fact: **I’m a huge astronomy fan and follow new space discoveries like a hobby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
