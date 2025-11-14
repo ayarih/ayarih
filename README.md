@@ -1,19 +1,9 @@
 <h1 align="center">Hi I'm Hanine Ayari </h1>
 <h3 align="center">A passionate software pre-engineering student</h3>
 
-- 🛠️ Building: **A new social platform with a clever freemium twist**
+I'm building a full-stack apps while exploring IoT with ESP32 and Arduino
 
-- 📚 Learning: **AI**
-
-- 🤝 Collab on: **Scaling and backend efficiency**
-
-- 📈 Need help with: **UI/UX improvements**
-
-- 💬 Ask me: **WEB/IOT development project ideas.**
-
-- 📫 How to reach me **ayarihanine@proton.me**
-
-- ✨ Fun fact: **I’m a huge astronomy fan and follow new space discoveries like a hobby.**
+- How to reach me **ayarihanine@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
